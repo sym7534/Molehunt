@@ -15,6 +15,7 @@ scoreboard objectives add Alive dummy
 scoreboard players set @a Alive 1
 
 team leave @a
+tag @a remove molehunt.unassigned
 
 scoreboard objectives add Timer dummy
 scoreboard players set ticks Timer 0

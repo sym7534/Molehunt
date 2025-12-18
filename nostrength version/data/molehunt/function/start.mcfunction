@@ -1,4 +1,5 @@
 function molehunt:load
+tag @a add molehunt.unassigned
 function molehunt:border_setup
 function molehunt:balance_items
 function molehunt:choose_roles
