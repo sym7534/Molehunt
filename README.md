@@ -1,6 +1,8 @@
 # Molehunt
 sym's version of molehunt
 
+# Note: Currently broken, idk why - use other version on my github
+
 inspired by Piffin380's viral youtube series of the same name.
 
 note: only run molehunt:start to start a game
